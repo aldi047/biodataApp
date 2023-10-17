@@ -1,16 +1,4 @@
 # biodata
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1697538957](https://github.com/aldi047/biodataApp/assets/54885340/c28c5360-1579-4df0-bec2-144f46accd5b)
+![Screenshot_1697538961](https://github.com/aldi047/biodataApp/assets/54885340/11659f03-97d0-4761-80fc-fe223110826f)
